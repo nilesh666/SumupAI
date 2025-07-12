@@ -2,7 +2,7 @@ Install docker
 
 Get qdrant image from docker hub and run it
 
-Acess qdrant using "http://localhost:6333/dashboard#/"
+Access qdrant using "http://localhost:6333/dashboard#/"
 
 Clone the repo and run using "streamlit run app.py"
 
